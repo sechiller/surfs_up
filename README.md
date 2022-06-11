@@ -9,22 +9,21 @@ Module 9
  
   
 ## Surfs Up Analysis Results
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-* 25,916 Senior Engineers are eligible to retire.
-* 24,926 Senior Staff are eligible to retire. 
 
-![image](https://user-images.githubusercontent.com/103475613/170876398-72e6528d-f6b1-4b07-8d48-4d1be4d93a39.png)
+### June
+* In June the max temp is 85, the min temp is 64, and the average temp is 74.9.
 
-* 303 Senior Engineers (and 382 Engineers) are eligible to provide mentorship.
-* 416 Senior Staff are eligible to provide menrorship. 
+<img width="150" alt="June_Temps" src="https://user-images.githubusercontent.com/103475613/173171974-aaea2386-e0df-434f-89d3-aff2fc21437a.png">
 
-![image](https://user-images.githubusercontent.com/103475613/170876574-9fd3e674-121d-4ed6-922b-4a236be437b4.png)
+### December
+* In December the max temp is 83, the min temp is 56, and the average temp is 71.0.
+
+<img width="178" alt="December_Temps" src="https://user-images.githubusercontent.com/103475613/173172031-f376de5d-476f-43e2-80f5-20906bc519c3.png">
 
 
-## Ssurfs Up Analysis Summary
 
-72,458 roles will need to be filled as the "silver tsunami" begins to make an impact.
+## Surfs Up Analysis Summary
 
-![image](https://user-images.githubusercontent.com/103475613/170876765-43995453-8197-4db3-a761-8a689d444243.png)
+Both June and December have mild weather and the surf and ice cream shop is sustainable year round. 
 
-There are 1,549 employees eligible to provide mentorship. This is not enough qualified, retirement-ready employees to mentor the next generation of more than 200,000 Pewlett Hackard employees.
+It may be helpful to look at wind and tide conditions as that impacts surf. It also may be helpful to correlate rain and temperature as some people might not want ice cream if it is colder and raining. Sunrise and sunset time may also inform business hours in the winter vs the summer. 
